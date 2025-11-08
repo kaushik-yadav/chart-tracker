@@ -21,7 +21,7 @@ hide_streamlit_style = """
         [data-testid="stDecoration"] {display: none;}
         [data-testid="stStatusWidget"] {display: none;}
         [data-testid="stHeader"] {display: none; height: 0;}
-        [data-testid="stSidebarNav"] {display: none;}
+        [data-testid="stElementContainer"] {display: none;}
         div.block-container {padding-top: 0;}
     </style>
 """
