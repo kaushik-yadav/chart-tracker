@@ -14,7 +14,16 @@ st.set_page_config(
 
 # Hide Streamlit header & footer
 hide_streamlit_style = """
-  <style> header {visibility: hidden;} footer {visibility: hidden;} [data-testid="stToolbar"] {display: none;} [data-testid="stDecoration"] {display: none;} [data-testid="stStatusWidget"] {display: none;} [data-testid="stHeader"] {display: none; height: 0;} [class*="st-emotion-cache"] {display: none;} [class^="st-emotion-cache"] {display: none;} [class$="st-emotion-cache"] {display: none;} [class*="^st-emotion-cache"] * {display: none;} [data-testid="stElementContainer"] {display: visible;} div.block-container {padding-top: 0;} </style>
+    <style>
+        header {visibility: hidden;}
+        footer {visibility: hidden;}
+        [data-testid="stToolbar"] {display: none;}
+        [data-testid="stDecoration"] {display: none;}
+        [data-testid="stStatusWidget"] {display: none;}
+        [data-testid="stHeader"] {display: none; height: 0;}
+        [data-testid="stSidebarNav"] {display: none;}
+        div.block-container {padding-top: 0;}
+    </style>
 """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
