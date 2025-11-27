@@ -14,16 +14,7 @@ st.set_page_config(
 
 # Hide Streamlit header & footer
 hide_streamlit_style = """
-    <style>
-        header {visibility: hidden;}
-        footer {visibility: hidden;}
-        [data-testid="stToolbar"] {display: none;}
-        [data-testid="stDecoration"] {display: none;}
-        [data-testid="stStatusWidget"] {display: none;}
-        [data-testid="stHeader"] {display: none; height: 0;}
-        [data-testid="stElementContainer"] {display: none;}
-        div.block-container {padding-top: 0;}
-    </style>
+  <style> header {visibility: hidden;} footer {visibility: hidden;} [data-testid="stToolbar"] {display: none;} [data-testid="stDecoration"] {display: none;} [data-testid="stStatusWidget"] {display: none;} [data-testid="stHeader"] {display: none; height: 0;} [class*="st-emotion-cache"] {display: none;} [class^="st-emotion-cache"] {display: none;} [class$="st-emotion-cache"] {display: none;} [class*="^st-emotion-cache"] * {display: none;} [data-testid="stElementContainer"] {display: visible;} div.block-container {padding-top: 0;} </style>
 """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
@@ -80,8 +71,8 @@ last_date = datetime.date.fromisoformat(cache_data[browser_id]["last_date"])
 selected_date = st.date_input(
     "📅 Choose chemo start date:",
     value=last_date,
-    min_value=base_date,
-    max_value=base_date + datetime.timedelta(days=21)
+    min_value=base_date - datetime.timedelta(days=365),
+    max_value=base_date + datetime.timedelta(days=365)
 )
 
 # Update browser-specific cache
