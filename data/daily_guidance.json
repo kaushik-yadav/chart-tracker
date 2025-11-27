@@ -1,0 +1,178 @@
+{
+  "1": {
+    "immune_risk": "Low",
+    "summary": "Immunity is strong today; body is adjusting to the start of the R-CHOP cycle. Energy may be fairly stable.",
+    "what_to_eat": "Have dal-rice with ghee, roti with lauki or tori sabzi, paneer bhurji, boiled eggs, banana and apple. Include coconut water and moong dal khichdi if digestion feels heavy.",
+    "what_not_to_eat": "Avoid fried pakoras, outside pav bhaji, restaurant noodles, and heavy masala dishes. Do not eat leftover street food or overly spicy snacks.",
+    "priorities": "Stay hydrated with 3 L water + coconut water; maintain regular meals; work 5 to 6 hrs with breaks every 45 mins; keep stress low today.",
+    "avoid": "Avoid unnecessary long outings; avoid crowded places; do not consume bakery junk like cream biscuits or packaged sweets."
+  },
+  "2": {
+    "immune_risk": "Low",
+    "summary": "Immunity stays strong. Appetite may fluctuate but overall body is coping well.",
+    "what_to_eat": "Have roti with spinach or methi sabzi, dal-khichdi, sprouts salad, paneer tikka at home, boiled eggs. Fruits like banana and pomegranate help maintain energy.",
+    "what_not_to_eat": "Avoid outside sandwiches, creamy pasta, samosa, vada pav, or stale hotel food. No chivda or chips today.",
+    "priorities": "Focus on hydration and regular meals; sit with ergonomic posture; take 10-min stretching breaks during laptop work.",
+    "avoid": "Avoid going out for food or chai; avoid overeating rice at night; avoid late-night screen time."
+  },
+  "3": {
+    "immune_risk": "Low",
+    "summary": "Immunity stable. Mild fatigue possible. Body still in stronger phase.",
+    "what_to_eat": "Eat dal-rice, roti with cabbage or karela sabzi, paneer paratha with curd, sprouts chaat without oil, 1 to 2 boiled eggs for protein.",
+    "what_not_to_eat": "Avoid chips, Kurkure, biscuits, bakery items, and outside dosa/idli which may be cooked in old oil.",
+    "priorities": "Maintain good hydration; continue WFH with posture awareness; go for a short walk on terrace or outside (mask on).",
+    "avoid": "Avoid long mall visits, public transport, or meeting too many people indoors."
+  },
+  "4": {
+    "immune_risk": "Low",
+    "summary": "Immunity is still good but body begins settling into cycle. Slight dips in stamina may begin.",
+    "what_to_eat": "Have moong dal khichdi, roti with bottle gourd or ridge gourd, paneer curry, fresh fruits like apple and banana, egg omelette if appetite is low.",
+    "what_not_to_eat": "Avoid spicy Chinese, pani puri, chaat, and fried items from outside. Avoid too much curd at night.",
+    "priorities": "Focus on maintaining energy; keep meals light but frequent; maintain hydration above 2.5 to 3 L.",
+    "avoid": "Avoid unnecessary outings even though risk is low; avoid cold drinks and sweets."
+  },
+  "5": {
+    "immune_risk": "Moderate",
+    "summary": "Immunity begins dropping into moderate zone. You may feel mild weakness.",
+    "what_to_eat": "Eat dal-khichdi with ghee, roti with pumpkin or carrot sabzi, paneer bhurji, 1 to 2 boiled eggs, banana and apples. Prefer warm home-cooked meals.",
+    "what_not_to_eat": "Avoid hotel food, stale roti-sabzi, chivda, chips, biscuits, and outside tea stalls.",
+    "priorities": "Prioritize rest between work sessions; keep hydration high; ensure fresh cooked meals only.",
+    "avoid": "Avoid meeting many outsiders; avoid long social gatherings; avoid heavy masala food."
+  },
+  "6": {
+    "immune_risk": "Moderate",
+    "summary": "Immunity continues decreasing. You may notice lower stamina or light tiredness.",
+    "what_to_eat": "Have roti with aloo-beans or tinda sabzi, dal-rice, paneer curry, sprouts with lemon, coconut water, boiled eggs if usual.",
+    "what_not_to_eat": "Avoid all outside snacks like puff, samosa, pizzas, sandwiches, or oily home snacks.",
+    "priorities": "Work 5 to x6 hrs with frequent breaks; maintain 3 L hydration; avoid stress.",
+    "avoid": "Avoid stepping into crowded local markets; avoid eating from friends' plates or shared utensils."
+  },
+  "7": {
+    "immune_risk": "Moderate",
+    "summary": "Immunity is now low-moderate. Body entering vulnerable window. Infection risk rising.",
+    "what_to_eat": "Eat plain dal-rice, lauki sabzi, spinach dal, paneer in light gravy, boiled eggs, banana, apple. Prefer soft foods like khichdi if digestion feels weak.",
+    "what_not_to_eat": "Avoid any restaurant food, pani puri, outside dosa, sweets from shops, and leftover cooked food >6 hrs old.",
+    "priorities": "Prioritize hygiene; sanitize surfaces; take plenty of rest; keep your mask ready if outsiders come home.",
+    "avoid": "Avoid going out socially; avoid long car rides with friends; avoid cold refrigerated foods."
+  },
+  "8": {
+    "immune_risk": "High",
+    "summary": "Immunity is severely low today. This is the high-risk period. Stay cautious.",
+    "what_to_eat": "Eat fresh khichdi, plain dal-rice, roti with lauki or tori, paneer in mild gravy, boiled eggs, fruits like banana and apple. Prefer warm, freshly cooked meals only.",
+    "what_not_to_eat": "Strictly avoid all outside food, chips, biscuits, chivda, cold foods, raw vegetables, and cut fruits from outside.",
+    "priorities": "Rest as much as possible; maintain hygiene; wear a mask if anyone comes home; keep hydration above 3 L.",
+    "avoid": "Avoid going outside unless essential; avoid meeting friends; avoid closed spaces with outsiders."
+  },
+  "9": {
+    "immune_risk": "High",
+    "summary": "One of the lowest immunity days. Body is vulnerable to infections.",
+    "what_to_eat": "Have light moong dal khichdi, rice with ghee, roti with mild sabzi like lauki/ghiya, paneer burji, soft homemade upma if tolerated, banana and apples only when washed carefully.",
+    "what_not_to_eat": "Avoid hotel food, bakery items, chai tapri items, packaged snacks, raw salads, and refrigerated leftovers.",
+    "priorities": "Prioritize rest; keep your room clean; avoid long laptop sessions; drink warm water.",
+    "avoid": "Avoid stepping out completely; avoid letting friends visit; avoid touching outside surfaces unnecessarily."
+  },
+  "10": {
+    "immune_risk": "High",
+    "summary": "Immunity remains at its lowest. Body needs maximum protection today.",
+    "what_to_eat": "Eat fresh khichdi, dal-rice with minimal spice, roti with boiled vegetable sabzis, paneer in soft gravy, boiled eggs, coconut water, bananas.",
+    "what_not_to_eat": "Avoid raw sprouts, onion-cucumber salads, outside sweets, biscuits, chips, fried snacks, and cold drinks.",
+    "priorities": "Focus on rest, hygiene, and warm cooked food. Take shorter work sessions (30 to 40 mins) with breaks.",
+    "avoid": "Strictly avoid outings, friends meet-ups, or allowing strangers into the home."
+  },
+  "11": {
+    "immune_risk": "High",
+    "summary": "Immunity still in the danger zone. Body slowly begins upward trend but risk is high.",
+    "what_to_eat": "Eat dal-rice, light sabzis like tori, lauki, palak dal, paneer curry, soft rotis, boiled eggs, banana + apple. Coconut water helps maintain hydration.",
+    "what_not_to_eat": "Avoid junk snacks, biscuits, maida items, leftover sabzi, cold stale food, and any outside meals.",
+    "priorities": "Keep environment clean; maintain warm hydration; continue light meals; minimize laptop work if fatigued.",
+    "avoid": "Avoid social contact; avoid leaving home; avoid touching pets or outdoor surfaces."
+  },
+  "12": {
+    "immune_risk": "High",
+    "summary": "Still in low-immunity stretch. Body is sensitive; infection risk remains high.",
+    "what_to_eat": "Eat moong dal khichdi, soft rotis with lauki/palak sabzi, paneer bhurji, boiled eggs, fruits like banana and apple, curd only if fresh.",
+    "what_not_to_eat": "Avoid spicy curries, oily sabzis, restaurant food, chivda, chips, biscuits, and refrigerated leftovers.",
+    "priorities": "Rest well; maintain hydration; keep meals simple. Keep windows open for ventilation.",
+    "avoid": "Avoid all outings including to friends’ homes. Avoid meeting groups or sharing food."
+  },
+  "13": {
+    "immune_risk": "Moderate",
+    "summary": "Immunity begins improving but caution still needed. Energy slowly returning.",
+    "what_to_eat": "Eat dal-rice, roti with spinach/pumpkin, paneer curry, boiled eggs, sprouts chaat (lightly steamed). Fruits like apple and banana are safe.",
+    "what_not_to_eat": "Avoid outside food, bakery items, biscuits, and cold leftover foods.",
+    "priorities": "Resume normal work hours with breaks; maintain hydration; light stretching.",
+    "avoid": "Avoid crowded areas; short outdoor walk is okay with mask."
+  },
+  "14": {
+    "immune_risk": "Moderate",
+    "summary": "Immunity moderately improving but body still recovering from low phase.",
+    "what_to_eat": "Eat dal-rice, roti with cabbage or beans sabzi, paneer paratha with fresh curd, soft eggs. Include fruit like banana and mosambi juice.",
+    "what_not_to_eat": "Avoid heavy masala curry, fried snacks, street food, and anything cooked in reused oil.",
+    "priorities": "Focus on easing back into routine; maintain hydration above 2.5 L.",
+    "avoid": "Avoid long social gatherings; short outings are okay if masked."
+  },
+  "15": {
+    "immune_risk": "Moderate",
+    "summary": "Immunity climbing well; energy returning. Moderate risk still applies.",
+    "what_to_eat": "Eat roti with methi or spinach sabzi, dal-khichdi, paneer tikka at home, boiled eggs, sprouts lightly steamed. Fruits like apple and pomegranate.",
+    "what_not_to_eat": "Avoid samosa, vada pav, pizza, outside noodles, and packaged sweets.",
+    "priorities": "Can work normally with proper posture; include light stretching and 10-min walk.",
+    "avoid": "Avoid shared utensils; avoid meeting sick people."
+  },
+  "16": {
+    "immune_risk": "Moderate",
+    "summary": "Immunity approaching strong levels but remain cautious. Fatigue decreasing.",
+    "what_to_eat": "Eat dal-rice, roti with paneer sabzi, mung dal khichdi, boiled eggs, steamed sprouts. Include banana, apple and coconut water.",
+    "what_not_to_eat": "Avoid maida-heavy foods, pani puri, sweet shops, and cold stored leftovers.",
+    "priorities": "Maintain regular meals, hydration, and structured laptop work hours.",
+    "avoid": "Avoid crowded cinemas or malls; short coffee outing is fine with mask."
+  },
+  "17": {
+    "immune_risk": "Low",
+    "summary": "Immunity is now strong again. Energy stable. Body recovering well.",
+    "what_to_eat": "Eat roti with paneer masala, dal-rice, sprouts chaat, omelette, bananas and apples. Can include homemade parathas.",
+    "what_not_to_eat": "Avoid fast food, outside Chinese, and anything deep-fried.",
+    "priorities": "Resume regular WFH schedule; light walks and stretching recommended.",
+    "avoid": "Avoid unnecessary late-night outings; small meet-ups with close friends are okay with mask."
+  },
+  "18": {
+    "immune_risk": "Low",
+    "summary": "Immunity strong; body functioning normally. Appetite likely improving.",
+    "what_to_eat": "Have dal-rice, roti with beans or brinjal sabzi, paneer bhurji, boiled eggs, fruits like banana and grapes. Coconut water helps hydration.",
+    "what_not_to_eat": "Avoid oily street food, bhel, sev puri, and junk snacks at home.",
+    "priorities": "Stay active with light exercise; maintain hydration; return to stable routine.",
+    "avoid": "Avoid very crowded social places; short outdoor visits are okay."
+  },
+  "19": {
+    "immune_risk": "Low",
+    "summary": "Immunity remains strong. Near full recovery phase before next cycle.",
+    "what_to_eat": "Eat dal, roti with spinach/palak sabzi, paneer curry, omelette, sprouts, bananas and apples. Healthy home snacks like roasted chana are okay.",
+    "what_not_to_eat": "Avoid pizzas, burgers, and packaged chips; avoid cold juice from outside.",
+    "priorities": "Focus on good nutrition; maintain normal work schedule; stay hydrated.",
+    "avoid": "Avoid unnecessary travel; short friend meetups are okay outdoors."
+  },
+  "20": {
+    "immune_risk": "Low",
+    "summary": "Immunity solid. Body is in stable condition. Prepare for next cycle soon.",
+    "what_to_eat": "Have dal-rice, roti with paneer masala or mixed veg, boiled eggs, steamed sprouts, bananas and coconut water.",
+    "what_not_to_eat": "Avoid deep fried snacks, stale foods, and overly spicy curries.",
+    "priorities": "Keep stress low; maintain hydration; continue 10-min stretching breaks.",
+    "avoid": "Avoid very late-night outings; small masked meetups are fine."
+  },
+  "21": {
+    "immune_risk": "Low",
+    "summary": "Immunity high and stable. This is near-peak recovery.",
+    "what_to_eat": "Eat roti with aloo-methi or paneer, dal-rice, sprouts chaat, 1 to 2 eggs, fruits like banana and apple. Homemade paratha is fine.",
+    "what_not_to_eat": "Avoid unhealthy snacks like chips/chivda and outside chaat.",
+    "priorities": "Stay active, hydrated, and keep meals regular. Good day for light chores or short outdoor walk.",
+    "avoid": "Avoid crowded indoor restaurants; outdoor café is okay with mask."
+  },
+  "22": {
+    "immune_risk": "Low",
+    "summary": "Immunity at its strongest in this cycle. Body fully recovered.",
+    "what_to_eat": "Eat dal-rice, roti with paneer sabzi, mixed veg curries, eggs, sprouts, banana and apple. Hydrate with coconut water.",
+    "what_not_to_eat": "Avoid heavy junk food, pani puri, and any greasy outside snacks.",
+    "priorities": "Prepare mentally and nutritionally for next chemo cycle; maintain calm and stable routine.",
+    "avoid": "Avoid unnecessary tiring activities; enjoy light social interactions safely."
+  }
+}
