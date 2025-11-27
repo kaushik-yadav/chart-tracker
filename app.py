@@ -1,6 +1,6 @@
 import streamlit as st
 import datetime
-from utils.llm_utils import get_daily_guidance
+from utils.guidance_utils import get_daily_guidance
 from utils.ui_utils import render_card, generate_date_labels, hide_streamlit_elements, plot_immunity
 from utils.cache_utils import load_cache, get_browser_id, save_cache
 from utils.status_utils import get_status
